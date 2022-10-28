@@ -9,7 +9,7 @@
   <!-- map size unit meter-->
   <param name="x_length" type="int" value="10"/>
   <param name="y_length" type="int" value="10"/>
-  <param name="z_length" type="int" value="4"/>
+  <param name="z_length" type="int" value="10"/>
 
   <param name="type" type="int" value="2"/>
   <param name="width_min"         type="double" value="0.6"/>
